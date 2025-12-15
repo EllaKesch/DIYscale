@@ -253,14 +253,5 @@ total_weight = delta_total / factor_total
 - CSV logging with timestamps
 
 ---
-
-## Repository Structure (Suggested)
-
-
-
-src/
-main.ino
-docs/
-photos/
-calibration-notes.md
+alibration-notes.md
 README.md
