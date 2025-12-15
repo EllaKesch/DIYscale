@@ -137,20 +137,14 @@ After calibration:
 
 Minor variation (±1–3%) is normal for DIY mechanical setups.
 
-When Re-Calibration Is Required
+# When Re-Calibration Is Required
 Re-calibration is required if:
+- Load cells are remounted
+- Platform geometry changes
+- HX711 boards are replaced
+- Large temperature changes occur
+- Normal power cycles do not require recalibration.
 
-Load cells are remounted
-
-Platform geometry changes
-
-HX711 boards are replaced
-
-Large temperature changes occur
-
-Normal power cycles do not require recalibration.
-
-Alternative: Combined Calibration (Optional)
-If individual load-cell accuracy is not required, the system can be calibrated using the sum of both raw signals.
-
-This method is faster but hides uneven load distribution and is not recommended for precision measurements.
+# Alternative: Combined Calibration (Optional)
+- If individual load-cell accuracy is not required, the system can be calibrated using the sum of both raw signals.
+- This method is faster but hides uneven load distribution and is not recommended for precision measurements.
