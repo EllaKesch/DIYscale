@@ -146,6 +146,7 @@ Printed every 500 ms:
 - Humidity (%)
 - Pressure (hPa)
 
+  Example: 
   HX5: OK raw=8392213 | HX1: OK raw=8123456 || T=22.18C H=41.90% P=1012.45hPa
 
 
@@ -263,5 +264,3 @@ docs/
 photos/
 calibration-notes.md
 README.md
-
-Example:
